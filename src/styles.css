@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+
+}
+img:hover{
+  width: 490px;
+  height: 250px;
+  transition: width 2s;
+}
+
