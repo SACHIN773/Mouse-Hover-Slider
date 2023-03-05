@@ -14,7 +14,7 @@ const breakPoints = [
 function App() {
   return (
     <>
-      <h1 style={{ textAlign: "center"}}>Example to setup your carousel in react</h1>
+      <h1    style={{ textAlign: "center"}}>Example to setup your carousel in react</h1>
       <div className="App">
         <Carousel breakPoints={breakPoints}>
          
